@@ -1,6 +1,6 @@
 # BeatBox-Maker
 
-===================================================DESIGN=========================================================================
+===================================================DESIGN=====================================================================
 TRANSMISSOR DE ÁUDIO - DEVERÁ REPRODUZIR SONS ELABORADOS E ARMAZENADOS EM SUA EEPROM.
 ATRAVÉS DE SPEAKERS (ALTO FALANTES, PLUGINS DE ÁUDIO P2 ETC) TRANSMITINDO E REPRODUZINDO ÁUDIOS.
 
@@ -28,4 +28,4 @@ EMISSOR DE ÁUDIO P/ USUARIO, E RECEPTOR DE AUDIO P/ USUARIO.
 
 BLOCO 4.
 CONFIGURAÇÕES DE INTERFACE E DE USUARIO, CRÉDITOS E APRESENTAÇÕES FINAIS.
-=====================================================DESIGN=======================================================================
+=====================================================DESIGN===================================================================
